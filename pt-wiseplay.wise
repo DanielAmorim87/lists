@@ -1,18 +1,17 @@
 {
     "name": "LISTA WISEPLAY - IPTV",
-    "author": "mission",
+    "author": "MISSI8N",
     "url": "http://bit.do/wiseqm8",
     "Update": "(01/06/2017)",
     "contact": "email@hotmail.com",
     "groups": [
     {
-    "name": "DESPORTO PORTUGAL",
-    "image": "http://cdn3-i.hitc-s.com/134/liga_portugal_34695.jpg",
+    "name": "DESPORTO NACIONAL",
+    "image": "https://i0.wp.com/futebolportugal.com/wp-content/uploads/benficasporting-porto-e1442339512312-300x178.png?resize=834%2C495",
     "stations": [
                   {
                     "name": "''Todos os canais nacionais desporto.''
-                    SERVIDORES:''OS LINKS ESTAO DISPONIVEIS E PUBLICOS NA PESQUISA LIVRE NA INTERNET LOGO NÃO ME RESPONSABILIZO existem problemas técnicos alheios ao Wiseplay, alguns canais podem deixarar de funcionar temporalmente sem previo aviso os udaptes são feitos assim que possivel.''
-                    Bosslulamen (ForoWise)",
+                    SERVIDORES:''ForoWise)",
                     "image": "http://sumasoluciones.eu/wp-content/uploads/2014/06/informacion.png",
                     "url": "",
                     "referer": "",
@@ -49,7 +48,8 @@
                             "name": "SPORT TV 3",
                             "image": "http://weblinks.altervista.org/LOGHI/sptv3.png",
                             "url": "http://sharecast.eu/embed/live3-qszlx"
-                },
+                "isHost": true
+		},
                 {
                             "name": "SPORT TV 4",
                             "image": "http://weblinks.altervista.org/LOGHI/sptv4.png",
