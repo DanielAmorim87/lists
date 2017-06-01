@@ -39,10 +39,11 @@
                             "url": "http://sharecast.eu/embed/live2-bipmr"
 		},
                 {
-                            "name": "SPORT TV 2 opc1",
-                            "image": "http://weblinks.altervista.org/LOGHI/sptv2.png",
-                            "url": "http://sharecast.eu/embed/live2-bipmr"
-                },
+          	   "name": "SPORT TV 2/2",
+          	   "image": "http://weblinks.altervista.org/LOGHI/sptv2.png",
+          	   "url": "http://sharecast.eu/embed/live2-bipmr",
+          	   "isHost": true
+        	},
                 								{
                             "name": "SPORT TV 3",
                             "image": "http://weblinks.altervista.org/LOGHI/sptv3.png",
