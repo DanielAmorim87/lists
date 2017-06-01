@@ -36,38 +36,33 @@
                 {
                             "name": "SPORT TV 2",
                             "image": "http://weblinks.altervista.org/LOGHI/sptv2.png",
-                            "url": "http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1722.ts"
+                            "url": "http://sharecast.eu/embed/live2-bipmr"
                 },
                 {
                             "name": "SPORT TV 2 opc1",
                             "image": "http://weblinks.altervista.org/LOGHI/sptv2.png",
-                            "url": "http://ptiptv.dyndns.tv:8000/live/server9999/99992389848293849/645.ts"
+                            "url": "http://sharecast.eu/embed/live2-bipmr"
                 },
                 								{
                             "name": "SPORT TV 3",
                             "image": "http://weblinks.altervista.org/LOGHI/sptv3.png",
-                            "url": "http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1723.ts"
+                            "url": "http://sharecast.eu/embed/live3-qszlx"
                 },
                 {
                             "name": "SPORT TV 4",
                             "image": "http://weblinks.altervista.org/LOGHI/sptv4.png",
-                            "url": "http://localhd.tv:8081/live/newaboo/pRk5z6tACy/1724.ts"
+                            "url": "http://cdn2.zuuk.org/sporttv4.php"
                 },
                 {
                             "name": "SPORT TV 5",
                             "image": "http://weblinks.altervista.org/LOGHI/sptv5.png",
-                            "url": "http://163.172.37.71:8789/live/karimos/test/339.ts"
+                            "url": "http://sharecast.eu/embed/live4-w04by"
                 },
                 {
                             "name": "BENFICA TV 1",
                             "image": "http://www.slbenfica.pt/Portals/_default/Skins/SLB/images/btv1_logo_img.png",
-                            "url": "http://163.172.37.71:8789/live/karimos/test/342.ts"
+                            "url": "http://sharecast.eu/embed/btv-md504"
                 },
-                {
-                            "name": "BENFICA TV 2",
-                            "image": "http://torrent-tv.ru/uploads/RmjbvbgcOdMknVTY4g7UExAZ0d8mcw.png",
-                            "url": "http://163.172.37.71:8789/live/karimos/test/344.ts"
-                }
                 
     ]
     },
