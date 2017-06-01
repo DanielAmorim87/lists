@@ -1,5 +1,5 @@
 {
-    "name": "LISTA DESPORTO - GERAL",
+    "name": "LISTA WISEPLAY - IPTV",
     "author": "mission",
     "url": "http://bit.do/wiseqm8",
     "Update": "(01/06/2017)",
@@ -11,8 +11,7 @@
     "stations": [
                   {
                     "name": "''Todos os canais nacionais desporto.''
-                    SERVIDORES:''OS LINKS ESTAO DISPONIVEIS E PUBLICOS NA PESQUISA LIVRE NA INTERNET LOGO NÃO ME RESPONSABILIZO existem problemas técnicos alheios ao Wiseplay, alguns canais podem deixarar de funcionar temporalmente sem previo aviso os udaptes são feitos assim que possivel.''
-                    Bosslulamen (ForoWise)",
+                    SERVIDORES:''IPTVFREE",
                     "image": "http://sumasoluciones.eu/wp-content/uploads/2014/06/informacion.png",
                     "url": "",
                     "referer": "",
@@ -37,7 +36,8 @@
                             "name": "SPORT TV 2",
                             "image": "http://weblinks.altervista.org/LOGHI/sptv2.png",
                             "url": "http://sharecast.eu/embed/live2-bipmr"
-                },
+			    "isHost": true
+		},
                 {
                             "name": "SPORT TV 2 opc1",
                             "image": "http://weblinks.altervista.org/LOGHI/sptv2.png",
